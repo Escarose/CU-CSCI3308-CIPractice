@@ -1,4 +1,4 @@
 language: c
 script:
-   sudo apt-get install check
+   sudo apt-get install check;
    make test
